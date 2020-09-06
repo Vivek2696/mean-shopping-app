@@ -1,3 +1,7 @@
+# MEAN Stack
+
+Using Mongo DB, Express, Angular and Node Js to create a Web app (particularly a game (connect 4)), just for Practice.
+
 # Connect4
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
