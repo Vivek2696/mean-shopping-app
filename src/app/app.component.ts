@@ -6,5 +6,12 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'connect4';
+  title = 'DAK App';
+
+  storedPosts = [];
+
+  onPostAdded(post) {
+    this.storedPosts.push(post);
+  }
+
 }
